@@ -7,9 +7,21 @@
 //
 
 #import <UIKit/UIKit.h>
-
-@interface ViewController : UIViewController
-
+/**
+ * Para que a data table receba os eventos da table view, 
+ * é necessário ainda especificar os protocolos na declaração 
+ * da interface.
+ */
+@interface ViewController : UIViewController<UITableViewDataSource, UITableViewDelegate>{
+    /*
+     * Array para armazenar os contatos que serão carregados.
+     */
+    NSMutableArray *contatos;
+}
+@property (weak, nonatomic) IBOutlet UIButton *botaoEditar;
+@property (weak, nonatomic) IBOutlet UITableView *tabelaContatos;
+- (IBAction)botaoEditarTap:(id)sender;
+- (IBAction)btSobre:(id)sender;
 
 @end
 

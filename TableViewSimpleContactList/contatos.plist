@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contatos</key>
+	<array>
+		<dict>
+			<key>telefone</key>
+			<string>99999-99999</string>
+			<key>nome</key>
+			<string>Item Número 1</string>
+		</dict>
+		<dict>
+			<key>telefone</key>
+			<string>99999-99999</string>
+			<key>nome</key>
+			<string>Item Número 2</string>
+		</dict>
+		<dict>
+			<key>telefone</key>
+			<string>99999-99999</string>
+			<key>nome</key>
+			<string>Item Número 3</string>
+		</dict>
+		<dict>
+			<key>telefone</key>
+			<string>99999-99999</string>
+			<key>nome</key>
+			<string>Item Número 4</string>
+		</dict>
+		<dict>
+			<key>telefone</key>
+			<string>99999-99999</string>
+			<key>nome</key>
+			<string>Item Número 5</string>
+		</dict>
+		<dict>
+			<key>telefone</key>
+			<string>99999-99999</string>
+			<key>nome</key>
+			<string>Item Número 6</string>
+		</dict>
+		<dict>
+			<key>telefone</key>
+			<string>99999-99999</string>
+			<key>nome</key>
+			<string>Item Número 7</string>
+		</dict>
+		<dict>
+			<key>telefone</key>
+			<string>99999-99999</string>
+			<key>nome</key>
+			<string>Item Número 8</string>
+		</dict>
+		<dict>
+			<key>telefone</key>
+			<string>99999-99999</string>
+			<key>nome</key>
+			<string>Item Número 9</string>
+		</dict>
+		<dict>
+			<key>telefone</key>
+			<string>99999-99999</string>
+			<key>nome</key>
+			<string>Item Número 10</string>
+		</dict>
+		<dict>
+			<key>telefone</key>
+			<string>99999-99999</string>
+			<key>nome</key>
+			<string>Item Número 11</string>
+		</dict>
+		<dict>
+			<key>telefone</key>
+			<string>99999-99999</string>
+			<key>nome</key>
+			<string>Item Número 12</string>
+		</dict>
+		<dict>
+			<key>telefone</key>
+			<string>99999-99999</string>
+			<key>nome</key>
+			<string>Item Número 13</string>
+		</dict>
+	</array>
+</dict>
+</plist>
